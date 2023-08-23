@@ -1,0 +1,28 @@
+D:\BNE\Teste de mesa\Planilha 2\problema01\bin\Debug\net7.0\problema01.exe
+D:\BNE\Teste de mesa\Planilha 2\problema01\bin\Debug\net7.0\problema01.deps.json
+D:\BNE\Teste de mesa\Planilha 2\problema01\bin\Debug\net7.0\problema01.runtimeconfig.json
+D:\BNE\Teste de mesa\Planilha 2\problema01\bin\Debug\net7.0\problema01.dll
+D:\BNE\Teste de mesa\Planilha 2\problema01\bin\Debug\net7.0\problema01.pdb
+D:\BNE\Teste de mesa\Planilha 2\problema01\obj\Debug\net7.0\problema01.GeneratedMSBuildEditorConfig.editorconfig
+D:\BNE\Teste de mesa\Planilha 2\problema01\obj\Debug\net7.0\problema01.AssemblyInfoInputs.cache
+D:\BNE\Teste de mesa\Planilha 2\problema01\obj\Debug\net7.0\problema01.AssemblyInfo.cs
+D:\BNE\Teste de mesa\Planilha 2\problema01\obj\Debug\net7.0\problema01.csproj.CoreCompileInputs.cache
+D:\BNE\Teste de mesa\Planilha 2\problema01\obj\Debug\net7.0\problema01.dll
+D:\BNE\Teste de mesa\Planilha 2\problema01\obj\Debug\net7.0\refint\problema01.dll
+D:\BNE\Teste de mesa\Planilha 2\problema01\obj\Debug\net7.0\problema01.pdb
+D:\BNE\Teste de mesa\Planilha 2\problema01\obj\Debug\net7.0\problema01.genruntimeconfig.cache
+D:\BNE\Teste de mesa\Planilha 2\problema01\obj\Debug\net7.0\ref\problema01.dll
+D:\BNE\Planilha 2\problema01\bin\Debug\net7.0\problema01.exe
+D:\BNE\Planilha 2\problema01\bin\Debug\net7.0\problema01.deps.json
+D:\BNE\Planilha 2\problema01\bin\Debug\net7.0\problema01.runtimeconfig.json
+D:\BNE\Planilha 2\problema01\bin\Debug\net7.0\problema01.dll
+D:\BNE\Planilha 2\problema01\bin\Debug\net7.0\problema01.pdb
+D:\BNE\Planilha 2\problema01\obj\Debug\net7.0\problema01.GeneratedMSBuildEditorConfig.editorconfig
+D:\BNE\Planilha 2\problema01\obj\Debug\net7.0\problema01.AssemblyInfoInputs.cache
+D:\BNE\Planilha 2\problema01\obj\Debug\net7.0\problema01.AssemblyInfo.cs
+D:\BNE\Planilha 2\problema01\obj\Debug\net7.0\problema01.csproj.CoreCompileInputs.cache
+D:\BNE\Planilha 2\problema01\obj\Debug\net7.0\problema01.dll
+D:\BNE\Planilha 2\problema01\obj\Debug\net7.0\refint\problema01.dll
+D:\BNE\Planilha 2\problema01\obj\Debug\net7.0\problema01.pdb
+D:\BNE\Planilha 2\problema01\obj\Debug\net7.0\problema01.genruntimeconfig.cache
+D:\BNE\Planilha 2\problema01\obj\Debug\net7.0\ref\problema01.dll
